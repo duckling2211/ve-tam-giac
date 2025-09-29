@@ -2,6 +2,11 @@
 
 Trên đồ thị, vẽ tam giác bằng cách chấm điểm (chỉ hỗ trợ chấm tại nút giao các đường kẻ), xem diện tích và chu vi của tam giác đó. Ngoài ra, có thể kéo lê đồ thị, phóng to nhỏ, chọn một/chọn nhiều điểm để dịch chuyển, sao chép/dán, hay xóa.
 
+## Thành viên và vai trò
+- Lê Minh Đức: Trưởng nhóm, code các thao tác trên đồ thị/điểm
+- Hoàng Nghĩa Huy (https://github.com/alteracctive): Code phần logic (vẽ, tính toán)
+- Nguyễn Công Phú: Tester, Sửa bug
+
 ## Tổng quan dự án
 - **Kiểu:** Windows Forms App (.NET Framework)
 - **Mục đích:** Vẽ tam giác trên đồ thị và thao tác cơ bản trên đồ thị.
